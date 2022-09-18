@@ -1,3 +1,6 @@
+@charset "UTF-8";
+/* Este comenátio está aparecendo no CSS */
+/*! Este cometnário também vai aparecer no CSS */
 .container {
   background-color: #ddd;
   padding: 20px;
