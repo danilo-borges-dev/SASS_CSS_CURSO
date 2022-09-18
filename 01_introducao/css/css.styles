@@ -1,0 +1,12 @@
+body {
+  background-color: #ccc;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  text-align: center;
+  color: #000;
+}
+
+/*# sourceMappingURL=css.styles.map */
