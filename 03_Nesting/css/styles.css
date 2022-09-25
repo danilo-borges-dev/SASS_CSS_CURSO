@@ -5,7 +5,7 @@ div p, div h2, main p, main h2 {
   color: blue;
 }
 
-main p {
+main .p-vermelho {
   color: red;
 }
 
